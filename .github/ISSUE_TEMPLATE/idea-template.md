@@ -1,6 +1,6 @@
 ---
 name: Idea template
-about: Propose a new idea for the One Million Developers
+about: Propose a new idea for Sense Collective
 title: ''
 labels: ''
 assignees: ''
